@@ -10,7 +10,8 @@ int input()
 
 int gcd(int a, int b)
 {
-  
+  int x;
+  return x;
 }
 
 void output(int a, int b, int hcf)

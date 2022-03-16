@@ -1,1 +1,9 @@
-
+ gcc -g p3original.c
+ ./a.out
+Enter a number:
+4
+The number 4 is Composite
+ ./a.out
+Enter a number:
+5
+The number 5 is Prime
