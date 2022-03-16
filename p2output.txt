@@ -1,1 +1,9 @@
-
+ gcc -g p2original.c
+ ./a.out
+Enter side of Triangle:
+2
+Enter side of Triangle:
+3
+Enter side of Triangle:
+4
+Triangle of side 2, 3 and 4 is NOT Scalene
